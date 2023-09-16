@@ -4,7 +4,7 @@ Submitted by: Tony Liu
 
 This web app: Shows different food trucks and links to their website
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
